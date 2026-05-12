@@ -1,4 +1,4 @@
-# URL Shortener
+# SnapLink - URL Shortener
 
 ![Laravel](https://img.shields.io/badge/Laravel-Latest-red)
 ![PHP](https://img.shields.io/badge/PHP-8.1+-blue)
@@ -10,7 +10,7 @@
 
 ## Description
 
-**URL Shortener** is a simple web-based application built with Laravel that allows users to shorten long URLs into cleaner, shorter, and easier-to-share links.
+**SnapLink** is a simple web-based application built with Laravel that allows users to shorten long URLs into cleaner, shorter, and easier-to-share links.
 
 This application is designed to provide a fast and efficient way to generate shortened links while maintaining a clean and minimal user experience.
 
